@@ -1,72 +1,42 @@
-# Liste de blocage des réseaux sociaux - Maintenue manuellement
-
-# Facebook
+# pfB_Custom - Social Media Blocklist
 facebook.com
 fbcdn.net
 fb.com
 messenger.com
-
-# Instagram
 instagram.com
 cdninstagram.com
-
-# TikTok
 tiktok.com
 tiktokcdn.com
 tiktokv.com
 muscdn.com
 musical.ly
-
-# YouTube
 youtube.com
 ytimg.com
 googlevideo.com
-
-# Twitter / X
 twitter.com
 twimg.com
 t.co
-
-# WhatsApp
 whatsapp.com
 whatsapp.net
-
-# Snapchat
 snapchat.com
 sc-cdn.net
 snapkit.com
-
-# LinkedIn
 linkedin.com
 licdn.com
-
-# Pinterest
 pinterest.com
 pinimg.com
-
-# Discord
 discord.com
 discordapp.com
 discord.gg
 discord.media
-
-# Reddit
 reddit.com
 redditmedia.com
 redd.it
-
-# Threads
 threads.net
-
-# Bluesky
 bsky.app
 bsky.social
-
-# Mastodon (exemples)
 mastodon.social
 mastodon.online
 mastodon.xyz
-
-# VKontakte (VK)
 vk.com
 vkuser.net
